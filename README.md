@@ -47,8 +47,8 @@ eo,utnhdtanui
 ![show picture](apple.png)  
 
 
- | **header 1**  | header 2   |  
-| :---      | ---:       |
+ | **header 1** |  header 2   |
+ -|-
 | **content**  | content    |
 | [content 2](https://www.google.com/) |  content 2 |
 | content 3 | content3|
@@ -57,7 +57,7 @@ eo,utnhdtanui
 
 ---
 ## fhuihd  
-    oepejuitdhikthxdthxdthxdhtxhtkijudhikhdepyuqjuihdkihdxhbtnbtnbtnbtnbnbtuijqjuikdhxkdhkdhkdhididhidhdhdhd  
+    oepejuitdhikthxdthxdthxdhtxhtkijudhikhdepyuqjuihdkihdxhbtnbtnbtnbtnbnbtuijqjuikdhxkdhkdhkdhididhidhdhdhd  oeiai oi
 
 ---
     p.eopkdyueifxhfdihdicfgifgididhidididhidhhithdidihi
